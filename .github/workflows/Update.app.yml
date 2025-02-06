@@ -38,9 +38,9 @@ jobs:
         
         
          
-        # git clone https://github.com/xiangfeidexiaohuo/2305-ipk.git ./tmp
-        # mv ./tmp/* ./
-        # rm -rf ./tmp
+        git clone https://github.com/xiangfeidexiaohuo/2305-ipk.git ./tmp
+        mv ./tmp/* ./
+        rm -rf ./tmp
         
         
         
