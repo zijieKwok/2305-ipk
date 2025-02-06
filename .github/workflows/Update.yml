@@ -21,8 +21,8 @@ jobs:
 
     - name: Set git
       run : |
-        git config --global user.email "jsjson@163.com"
-        git config --global user.name "xiangfeidexiaohuo"
+        git config --global user.email "109743406+zijieKwok@users.noreply.github.com"
+        git config --global user.name "zijieKwok"
         sudo timedatectl set-timezone "Asia/Shanghai"
 
     - name: Delete workflow runs
